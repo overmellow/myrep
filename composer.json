@@ -1,0 +1,14 @@
+{
+    "name": "mfaraji/myrep",
+    "type": "project",
+    "authors": [
+        {
+            "name": "mori",
+            "email": "morteza_faraji@yahoo.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "monolog/monolog": "^2.1"
+    }
+}
