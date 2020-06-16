@@ -14,8 +14,6 @@
             "WV\\": "src/WV"
         }
     },
-    "require": {
-        "monolog/monolog": "^2.1"
-    },
+    "require": {},
     "minimum-stability": "stable"
 }
