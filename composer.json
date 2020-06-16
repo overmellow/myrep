@@ -1,6 +1,6 @@
 {
     "name": "mfaraji/myrep",
-    "type": "project",
+    "type": "library",
     "authors": [
         {
             "name": "mori",
