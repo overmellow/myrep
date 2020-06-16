@@ -15,7 +15,8 @@
         }
     },
     "require": {
-        "php": "^5.3.0",
+        "php": "^7.1",
         "monolog/monolog": "^2.1"
-    }
+    },
+    "minimum-stability": "stable"
 }
