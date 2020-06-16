@@ -1,5 +1,5 @@
 <?php
-namespace wv;
+namespace WV\MyClasses;
 
 class SimpleClass {
     // property declaration
